@@ -4,6 +4,9 @@
 include ("partials/head.php");
 ?>
 <body class="animsition">
+	<?php
+	  include ("partials/header.php");
+	  ?>
 	
 	<!-- Header -->
 	<header>
